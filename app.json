@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "patikastore",
+    "slug": "patikastore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "patikastore"
+}
